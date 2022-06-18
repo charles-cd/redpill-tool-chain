@@ -1,15 +1,15 @@
 {
     "extra_cmdline": {
-        "pid": "0x5571",
-        "vid": "0x0781",
-        "sn": "2030SBRTCCXTX",
-        "mac1": "00E06718E305"
+        "pid":"0x5571",
+        "vid":"0x0781",
+        "sn":"2030SBRTCCXTX",
+        "mac1":"00E06718E305"
     },
-    "synoinfo": {
-    "maxdisks": "16",
-    "internalportcfg": "0xfffb",
-    "esataportcfg": "0x0004"
+    "synoinfo":{
+    "maxdisks":"16",
+    "internalportcfg":"0xfffb",
+    "esataportcfg":"0x0004"
     },
-    "ramdisk_copy": {},
-    "extensions": []
+    "ramdisk_copy":{},
+    "extensions":[]
 }
