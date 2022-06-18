@@ -7,8 +7,8 @@
     },
     "synoinfo": {
     "maxdisks" : "16",
-    "internalportcfg" : "0xf006",
-    "esataportcfg" : "0x0ff9"
+    "internalportcfg" : "0xfffb",
+    "esataportcfg" : "0x0004"
     },
     "ramdisk_copy": {},
     "extensions": []
